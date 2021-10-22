@@ -2,22 +2,22 @@
 
 ## Задание №1 - Подготовка рабочей среды
 
-1. [main.py](https://i.imgur.com/BICkGXK.png)
+1. [main.py](https://github.com/anatolben/DEVSYS-PDC-2/blob/main/01-intro-01/main.py)
    ![main.py](https://i.imgur.com/BICkGXK.png)
 
-2. [netology.jsonnet](https://i.imgur.com/Xv4pY6s.png)
+2. [netology.jsonnet](https://github.com/anatolben/DEVSYS-PDC-2/blob/main/01-intro-01/netology.jsonnet)
    ![netology.jsonnet](https://i.imgur.com/Xv4pY6s.png)
 
-3. [netology.tf](https://i.imgur.com/80CxU16.png)
+3. [netology.tf](https://github.com/anatolben/DEVSYS-PDC-2/blob/main/01-intro-01/netology.tf)
    ![netology.tf](https://i.imgur.com/80CxU16.png)
 
-4. [netology.yaml](https://i.imgur.com/E6lhvvV.png)
+4. [netology.yaml](https://github.com/anatolben/DEVSYS-PDC-2/blob/main/01-intro-01/netology.yaml)
    ![netology.yaml](https://i.imgur.com/E6lhvvV.png)
 
-5. [netology.md](https://i.imgur.com/7Ir2buj.png)
+5. [netology.md](https://github.com/anatolben/DEVSYS-PDC-2/blob/main/01-intro-01/netology.md?plain=1)
    ![netology.md](https://i.imgur.com/7Ir2buj.png)
 
-6. [netology.sh](https://i.imgur.com/PSFsCRj.png)
+6. [netology.sh](https://github.com/anatolben/DEVSYS-PDC-2/blob/main/01-intro-01/netology.sh)
    ![netology.sh](https://i.imgur.com/PSFsCRj.png)
 
 
